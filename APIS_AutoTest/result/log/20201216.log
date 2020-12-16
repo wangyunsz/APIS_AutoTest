@@ -1,0 +1,12 @@
+[2020-12-16 14:49:50,201][32][DEBUG]: 发送请求： 请求类型[post], 请求地址[http://xxx.uat.com/xxx], 请求头[{'Content-Type': 'text/plain; charset=UTF-8'}], 请求体[XXX]
+[2020-12-16 14:49:51,670][32][DEBUG]: 返回响应： <Response [200]>
+[2020-12-16 14:49:51,677][32][DEBUG]: 发送请求： 请求类型[post], 请求地址[http://xxx.uat.com/xxx], 请求头[{'Content-Type': 'text/plain; charset=UTF-8'}], 请求体[XXX]
+[2020-12-16 14:49:52,156][32][DEBUG]: 返回响应： <Response [200]>
+[2020-12-16 14:49:52,163][32][DEBUG]: 发送请求： 请求类型[post], 请求地址[http://xxx.uat.com/xxx], 请求头[{'Content-Type': 'text/plain; charset=UTF-8'}], 请求体[XXX]
+[2020-12-16 14:49:53,597][32][DEBUG]: 返回响应： <Response [200]>
+[2020-12-16 15:00:31,171][19908][DEBUG]: 发送请求： 请求类型[post], 请求地址[http://xxx.uat.com/xxx], 请求头[{'Content-Type': 'text/plain; charset=UTF-8'}], 请求体[XXX]
+[2020-12-16 15:00:31,690][19908][DEBUG]: 返回响应： <Response [200]>
+[2020-12-16 15:00:31,695][19908][DEBUG]: 发送请求： 请求类型[post], 请求地址[http://xxx.uat.com/xxx], 请求头[{'Content-Type': 'text/plain; charset=UTF-8'}], 请求体[XXX]
+[2020-12-16 15:00:33,598][19908][DEBUG]: 返回响应： <Response [200]>
+[2020-12-16 15:00:33,603][19908][DEBUG]: 发送请求： 请求类型[post], 请求地址[http://xxx.uat.com/xxx], 请求头[{'Content-Type': 'text/plain; charset=UTF-8'}], 请求体[XXX]
+[2020-12-16 15:00:34,221][19908][DEBUG]: 返回响应： <Response [200]>

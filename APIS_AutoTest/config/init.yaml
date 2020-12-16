@@ -1,0 +1,32 @@
+# 系统初始化类配置
+
+# 集成开发环境、sit环境、uat环境
+addr-dev: http://xxx.dev.com
+addr-sit: http://xxx.sit.com
+addr-uat: http://xxx.uat.com
+
+
+# 数据库配置
+# 数据库IP、端口、用户、密码、数据库名、字符编码
+database:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  password:
+  name: apis_auto_test
+  charset: utf8
+
+# 日志相关
+log:
+ #log等级
+ level: "debug"
+ #扩展名
+ extension: ".log"
+
+# wkhtmltopdf安装路径
+wkhtmltopdf_path: D:\soft\wkhtmltopdf\bin\wkhtmltopdf.exe
+
+# 多线程并发执行数
+max_workers: 5
+
+
